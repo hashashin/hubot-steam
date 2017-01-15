@@ -20,7 +20,7 @@
   "engine": "node > 0.6.0 < 0.8.0",
   "dependencies": {
     "coffee-script":"",
-    "steam":"<= 0.6.7",
+    "steam":"^1.4.0",
     "request": ""
   }
 }
